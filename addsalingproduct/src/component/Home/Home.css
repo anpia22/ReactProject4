@@ -1,0 +1,29 @@
+.addProduct-section{
+    background: rgb(2 13 53);
+    padding: 15px;
+}
+.addProduct-section form{
+    background: rgb(0 243 240 / 46%);
+    backdrop-filter: blur(40px);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: justify;
+}
+.addProduct-section form .input-label-section{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 30px;
+}
+.addProduct-section form .select-label-section{
+    text-align: center;
+    margin-top: 15px;
+}
+.addProduct-section form button{
+    display: block;
+    margin-top: 20px;
+    margin-inline: auto;
+    background: #00fff3;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
